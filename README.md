@@ -11,4 +11,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/kyeongchan92/leetcode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/kyeongchan92/leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/kyeongchan92/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [0015-3sum](https://github.com/kyeongchan92/leetcode/tree/master/0015-3sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/kyeongchan92/leetcode/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/kyeongchan92/leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
